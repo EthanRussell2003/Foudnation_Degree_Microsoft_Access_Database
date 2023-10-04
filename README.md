@@ -1,4 +1,4 @@
-<h1>Ethan Russell - Salon Booking System</h1>
+<h1>Ethan Russell - Microsoft Access Dental Treatment Database</h1>
 
 <h2>Description</h2>
 Project consists of a simple program using SQL through Microsoft Access. Allowing a user to use forms to create/edit/delete staff, patients and appointments for dental care.
